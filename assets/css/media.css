@@ -1,0 +1,12 @@
+@media screen and (max-width: 760px){
+ 
+  a{
+    padding-top: 0px;
+  }
+  .container{
+    padding-left: 35px;
+  }
+  .namoimg{
+    display: none;
+  }
+}
